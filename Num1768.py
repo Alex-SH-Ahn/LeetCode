@@ -1,7 +1,7 @@
 class Solution(object):
     def mergeAlternately(self, word1, word2):
         newString = ""
-        maxLen = len(word1) + len(word2)
+        maxLen = max(len(word1), len(word2))
 
         for i in range(maxLen):
             if(i > (len(word1) - 1)):
