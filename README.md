@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0086-partition-list](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0086-partition-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0020-valid-parentheses) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
