@@ -2,7 +2,7 @@
  * @param {string} s
  * @return {number}
  */
-const numbers =  {
+const num =  {
     'I': 1,
     'V': 5,
     'X': 10,
@@ -14,11 +14,11 @@ const numbers =  {
 var romanToInt = function(s) {
     let sum = 0;
     for (let i = 0; i < s.length; i++) {
-        if (numbers[s[i+1]] > numbers[s[i]]) {
-            sum+=(numbers[s[i+1]] - numbers[s[i]]);
+        if (num[s[i+1]] > num[s[i]]) {
+            sum+=(num[s[i+1]] - num[s[i]]);
             i++;
         } else {
-            sum+=numbers[s[i]];
+            sum+=num[s[i]];
         }
     }
     return sum;
