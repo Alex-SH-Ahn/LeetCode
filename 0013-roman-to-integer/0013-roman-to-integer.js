@@ -15,8 +15,8 @@ var romanToInt = function(s) {
     let sum = 0;
     for (let i = 0; i < s.length; i++) {
         if (numbers[s[i+1]] > numbers[s[i]]) {
-            sum+=(numbers[s[i+1]] - numbers[s[i]]); // 다음 글자의 값이 더 크다면
-            i++; // has to move on to i+2
+            sum+=(numbers[s[i+1]] - numbers[s[i]]);
+            i++;
         } else {
             sum+=numbers[s[i]];
         }
