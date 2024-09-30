@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0189-rotate-array) |
+| [0605-can-place-flowers](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
