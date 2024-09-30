@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0189-rotate-array) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0169-majority-element) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0169-majority-element) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
 |  |
 | ------- |
