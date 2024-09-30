@@ -3,19 +3,17 @@
  * @return {number}
  */
 var missingInteger = function(nums) {
-    let num_set = new Set()
-    for (let item of nums){
-        num_set.add(item)
+    let prefix = [nums[0]]
+    for(let i = 1; i < nums.length; i++){
+        if(nums[i] === (nums[i-1] + 1)){
+            prefix.push(nums[i])
+        } else {
+            break
+        }
     }
-    let sum = nums[0]
-    let idx = 1
-    while (idx<nums.length && nums[idx] == nums[idx-1]+1){
-        sum+=nums[idx]
-        idx++
+    let res = prefix.reduce((a, b) => a + b, 0)
+    while(nums.includes(res)){
+        res++
     }
-    while (num_set.has(sum)){
-        sum++
-    }
-    
-    return sum
+    return res
 };
