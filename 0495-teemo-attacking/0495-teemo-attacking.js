@@ -14,7 +14,7 @@ var findPoisonedDuration = function(timeSeries, duration) {
         } else {
             sum+=duration;
         }
-        prevEnd=currentEnd;
+        prev=currentEnd;
     }
     return sum;
 };
