@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0392-is-subsequence) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 ## Stack
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Alex-SH-Ahn/LeetCode/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
