@@ -17,8 +17,7 @@ var maxVowels = function(s, k) {
         if(vowels.includes(s[i])) num--;
         if(vowels.includes(s[k+i])) num++;
         maxNum=Math.max(num, maxNum);
-        if(maxNum===k) return k;
-        console.log('2: ', maxNum);
+        if(maxNum===k) break;
     }
     return maxNum;
 };
